@@ -1,0 +1,107 @@
+AL Software - Desenvolvendo seu Futuro
+Contato:
+   Cleyton Ferrari   Fone: 69 9975-0504  Email: cleytonferrari@hotmail.com
+   Anderson Lopes    Fone: 69 9988-4966  Email: andersonlopes14@msn.com
+Rua Rondônia,  nº 3716  -  Centro
+CEP: 78956-000   -   Alto Paraíso - RO
+==============================================================
+
+DATE/TIME............: 16/04/2007 21:51:27
+Unit Error...........: untControlaTabela
+Call Symbol..........: Procedure SalvarRegistro (TabelaDM:TDataSet)
+Error type...........: EIBInterBaseError
+Description..........: attempt to store duplicate value (visible to active transactions) in unique index "XPKBAIRROS"
+SQL Error............: 
+Instruction error....: 
+
+Memory free..........: 501648 bytes
+Total PageFile.......: 2221480 bytes
+Avail PageFile.......: 1912116 bytes
+Total Virtual .......: 2097024 bytes
+Avail virtual free...: 2060612 bytes
+
+--------------------------------------------------------------
+
+DATE/TIME............: 17/4/2007 15:03:11
+Unit Error...........: untDM
+Call Symbol..........: procedure TDM.DataModuleCreate(Sender: TObject)
+Error type...........: EIBInterBaseError
+Description..........: I/O error for file "C:\SISCAFE\DADOS\SISCAFESS.GDB"
+Error while trying to open file
+O sistema não pode encontrar o arquivo especificado.
+
+SQL Error............: 
+Instruction error....: Post
+
+Memory free..........: 500320 bytes
+Total PageFile.......: 2221480 bytes
+Avail PageFile.......: 1880640 bytes
+Total Virtual .......: 2097024 bytes
+Avail virtual free...: 2064256 bytes
+
+--------------------------------------------------------------
+
+DATE/TIME............: 26/4/2007 21:46:22
+Unit Error...........: untDM
+Call Symbol..........: procedure TDM.DataModuleCreate(Sender: TObject)
+Error type...........: EIBInterBaseError
+Description..........: I/O error for file "C:\SISCAFE\DADOS\SISCAFESS.GDB"
+Error while trying to open file
+O sistema não pode encontrar o arquivo especificado.
+
+SQL Error............: 
+Instruction error....: Post
+
+Memory free..........: 561340 bytes
+Total PageFile.......: 2221480 bytes
+Avail PageFile.......: 1954548 bytes
+Total Virtual .......: 2097024 bytes
+Avail virtual free...: 2064256 bytes
+
+--------------------------------------------------------------
+
+DATE/TIME............: 1/5/2007 15:54:14
+Unit Error...........: untDM
+Call Symbol..........: procedure TDM.DataModuleCreate(Sender: TObject)
+Error type...........: EIBClientError
+Description..........: Cannot perform operation -- DB is currently open
+SQL Error............: 
+Instruction error....: Post
+
+Memory free..........: 469488 bytes
+Total PageFile.......: 2221480 bytes
+Avail PageFile.......: 1807888 bytes
+Total Virtual .......: 2097024 bytes
+Avail virtual free...: 2063232 bytes
+
+--------------------------------------------------------------
+
+DATE/TIME............: 04/04/2008 20:42:12
+Unit Error...........: untDM
+Call Symbol..........: procedure TDM.DataModuleCreate(Sender: TObject)
+Error type...........: EIBInterBaseError
+Description..........: Your user name and password are not defined. Ask your database administrator to set up a Firebird login
+SQL Error............: 
+Instruction error....: Post
+
+Memory free..........: 556544 bytes
+Total PageFile.......: 2221220 bytes
+Avail PageFile.......: 1931408 bytes
+Total Virtual .......: 2097024 bytes
+Avail virtual free...: 2064824 bytes
+
+--------------------------------------------------------------
+
+DATE/TIME............: 18/04/2008 08:00:09
+Unit Error...........: untDM
+Call Symbol..........: procedure TDM.DataModuleCreate(Sender: TObject)
+Error type...........: EIBInterBaseError
+Description..........: Your user name and password are not defined. Ask your database administrator to set up a Firebird login
+SQL Error............: 
+Instruction error....: Post
+
+Memory free..........: 538404 bytes
+Total PageFile.......: 2221220 bytes
+Avail PageFile.......: 1878440 bytes
+Total Virtual .......: 2097024 bytes
+Avail virtual free...: 2064244 bytes

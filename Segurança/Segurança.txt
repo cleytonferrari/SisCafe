@@ -1,0 +1,6 @@
+SystemAL.ini
+p3win.ini
+
+hh mm dd MM
+
+sem os zeros da hora e minuto se tiver

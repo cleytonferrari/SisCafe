@@ -1,0 +1,34 @@
+DESCRIÇÃO                                                                     SITUAÇÃO		DESCOBERTO		FINALIZADO
+
+Gerador de Relatorio ao gerar por codigo do fornecedor
+exibe a msg de alertar mas gera o relatorio mesmo assim-----------------------Resolvido		10/04/2007 12:15	10/04/2007 12:20
+
+Label da tela do gerar Relatorio de compra ta mostrando
+fornecedor quando deveria mostrar cliente-------------------------------------Resolvido		10/04/2007 12:27	10/04/2007 12:27
+
+Relatorio de compras e de venda ta com o titulo "Relatorio de Enderecos"------Resolvido		10/04/2007 12:43	10/04/2007 12:43
+
+Desenvolver teclas de atalhos para os menus-----------------------------------Resolvido		10/04/2007 13:00	10/04/2007 13:31
+
+Arrumar os valores do emprestimo de sacaria no relatorio, que esta como
+reais e o valor correto é em unidades-----------------------------------------Resolvido		10/04/2007 13:00	10/04/2007 13:32
+
+Personalizar a mensagens de erro do sistema para mostrar o erro E.error-------Resolvido		10/04/2007 17:15	16/04/2007 21:50
+
+Desenvolver uma tela de AGUARDE enquanto o relatorio
+é gerado----------------------------------------------------------------------Desenvolvendo	10/04/2007 12:33
+
+Fazer o cadastro de usuarios--------------------------------------------------Desenvolvendo	10/04/2007 15:15
+
+Relatorio de Promissoria, na hora do emprestimo em dinheiro-------------------Desenvolvendo	10/04/2007 17:15
+
+Opção de endereço nos cadastro de cliente e fornecedor------------------------Desenvolvendo	10/04/2007 17:15
+
+Gerar historico de movimentação dos clientes e dos fornecedores, parecido
+com um extrato de banco-------------------------------------------------------Desenvolvendo	10/04/2007 17:15
+
+Fazer o relatorio de imprimir cheques, na tela de compra, na tela de 
+emprestimo, cheques alvusos --------------------------------------------------Desenvolvendo	10/04/2007 17:15
+
+Fazer filtro de relatorio para as fichas cadastrais dos clientes--------------Desenvolvendo	10/04/2007 17:15
+

@@ -1,0 +1,126 @@
+object Form1: TForm1
+  Left = 192
+  Top = 114
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsSingle
+  Caption = 'Licen'#231'a de Uso'
+  ClientHeight = 152
+  ClientWidth = 229
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poScreenCenter
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Bevel2: TBevel
+    Left = 5
+    Top = 56
+    Width = 220
+    Height = 92
+  end
+  object Bevel1: TBevel
+    Left = 4
+    Top = 4
+    Width = 221
+    Height = 49
+  end
+  object Label1: TLabel
+    Left = 17
+    Top = 104
+    Width = 82
+    Height = 13
+    Caption = 'Data para Expirar'
+  end
+  object Label2: TLabel
+    Left = 61
+    Top = 64
+    Width = 139
+    Height = 26
+    Alignment = taCenter
+    Caption = 'Marque a Data em que deve vencer a licen'#231'a de Uso.'
+    WordWrap = True
+  end
+  object Label3: TLabel
+    Left = 81
+    Top = 6
+    Width = 71
+    Height = 24
+    Caption = 'SisCafe'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label4: TLabel
+    Left = 26
+    Top = 30
+    Width = 176
+    Height = 20
+    Caption = 'Controle de Cafeeira'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -16
+    Font.Name = 'MS Sans Serif'
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+  end
+  object Image1: TImage
+    Left = 16
+    Top = 64
+    Width = 32
+    Height = 32
+    AutoSize = True
+    Picture.Data = {
+      055449636F6E0000010001002020040000000000E80200001600000028000000
+      2000000040000000010004000000000000020000000000000000000000000000
+      0000000000000000000080000080000000808000800000008000800080800000
+      C0C0C000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000
+      FFFFFF0000000000000000000000000000000000000330333333333333333800
+      000000000037070BBBBBBBBBBBBB78300000000000307770BBBBBBBBBBBB7380
+      000000000038787077777777777B783000000000003F0870BBBBBBBBBBBB7380
+      000000000030787077777777777B783000000000000F7870BBBBBBBBBBBB7380
+      000000000038787077777777777B78300000000000387880BBBBBBBBBBBB7380
+      000000000038FF8077777777777B783000000000008F77770BBBBBBBBBBB7380
+      0000000008F77F7780777777777B7830000000008F77F7F7780BBBBBBBBB7380
+      800000008F7F007F780BBBBBBBBF7800800000008F708F07780FFFFFFFF770F0
+      800000008F7088077808383838380FF08000000008F700778083838383008FF0
+      08800000008FFF7800383838007FFFFFF00800000008888B303333387FFFFCCF
+      FF7080000000003B3000008FFFFFFCCFFFFF08000000003B300008FFFFFFFFFF
+      FFFFF0800000003B300087FFFFFFFC8FFFFFF7080000003B30008FFFFFFFFC8F
+      FFFFFF080000003B30008FFFFFFFF8C8FFFFFF080000003B73008FFFFFF8CFCC
+      8FFFFF0800000003B73087FFFFFCCFCCCFFFF780000000003BB338FFFFFC7FCC
+      CFFFF80000000000033BBB8FFFF7CCCCFFFF80000000000000033338FFFFFFFF
+      FFF800000000000000000000887FFFFFF8800000000000000000000000888888
+      80000000E00003FFC00001FFC00000FFC00000FFC00000FFC00000FFC00000FF
+      C00000FFC00000FFC00000FFC00000FFC00000FF800000FF0000007F0000007F
+      0000007F0000007F8000001FC000000FE0000007FC3C0003FC380001FC300000
+      FC300000FC300000FC100000FE000001FF000003FF800007FFE0000FFFFF001F
+      FFFFC07F}
+  end
+  object EditData: TMaskEdit
+    Left = 17
+    Top = 120
+    Width = 105
+    Height = 21
+    EditMask = '99/99/9999;0;_'
+    MaxLength = 10
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 132
+    Top = 117
+    Width = 84
+    Height = 25
+    Caption = 'Gravar'
+    Default = True
+    TabOrder = 1
+    OnClick = Button1Click
+  end
+end
